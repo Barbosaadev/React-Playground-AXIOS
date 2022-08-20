@@ -6,6 +6,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
 </div>
 
+https://comfy-platypus-8e61fe.netlify.app/
+
 <img align="center" src="/ignore/REACT-PLAYGROUND-AXIOS-PRINT.png" alt="Project Print">
 
 
